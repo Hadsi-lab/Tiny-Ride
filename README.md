@@ -9,6 +9,7 @@ Play: https://hadsi-lab.github.io/Tiny-Ride/
 - `index.html` – the game (one file, uses three.js from a CDN).
 - `docs/index.html` – the same game wrapped as a full web page for GitHub Pages. Generated; don't edit by hand.
 - `scripts/build-pages.sh` – regenerates `docs/index.html` from `index.html`.
+- `docs/manifest.webmanifest`, `docs/icons/` – app name and home-screen icon (the blue racer from the game).
 
 ## Publishing on GitHub Pages
 
